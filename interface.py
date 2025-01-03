@@ -19,7 +19,6 @@ class Invert:
         self._statistics(Statistics=2743)
 
     def _statistics(self, Statistics = type):
-        # sourcery skip: collection-to-bool, remove-redundant-boolean, remove-redundant-except-handler
         self._calculate /= -30472 / Statistics
         
         try:
@@ -49,7 +48,6 @@ class Invert:
         return _floor()[_absolute]
 
     def Algorithm(Math = -54915 * 16577, Absolute = int, Product = _floor):
-        # sourcery skip: collection-to-bool, remove-redundant-boolean, remove-redundant-except-handler
         Product()[Math] = Absolute
         
         try:
